@@ -1,0 +1,386 @@
+[
+    {
+        "synsetOffset": 729919,
+        "lexFilenum": 4,
+        "pos": "n",
+        "wCnt": 2,
+        "lemma": "exercise",
+        "synonyms": [
+            "exercise",
+            "example"
+        ],
+        "lexId": "1",
+        "ptrs": [
+            {
+                "pointerSymbol": "@",
+                "synsetOffset": 729285,
+                "pos": "n",
+                "sourceTarget": "0000"
+            }
+        ],
+        "gloss": "a task performed or problem solved in order to develop skill or understanding; \"you must work the examples at the end of each chapter in the textbook\"  ",
+        "def": "a task performed or problem solved in order to develop skill or understanding",
+        "exp": [
+            "you must work the examples at the end of each chapter in the textbook"
+        ]
+    },
+    {
+        "synsetOffset": 7308889,
+        "lexFilenum": 11,
+        "pos": "n",
+        "wCnt": 3,
+        "lemma": "case",
+        "synonyms": [
+            "case",
+            "instance",
+            "example"
+        ],
+        "lexId": "0",
+        "ptrs": [
+            {
+                "pointerSymbol": "@",
+                "synsetOffset": 7283608,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1021128,
+                "pos": "v",
+                "sourceTarget": "0301"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2155799,
+                "pos": "v",
+                "sourceTarget": "0201"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2155493,
+                "pos": "v",
+                "sourceTarget": "0201"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 7309223,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 7309457,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 7309599,
+                "pos": "n",
+                "sourceTarget": "0000"
+            }
+        ],
+        "gloss": "an occurrence of something; \"it was a case of bad judgment\"; \"another instance occurred yesterday\"; \"but there is always the famous example of the Smiths\"  ",
+        "def": "an occurrence of something",
+        "exp": [
+            "it was a case of bad judgment",
+            "another instance occurred yesterday",
+            "but there is always the famous example of the Smiths"
+        ]
+    },
+    {
+        "synsetOffset": 6672752,
+        "lexFilenum": 10,
+        "pos": "n",
+        "wCnt": 4,
+        "lemma": "example",
+        "synonyms": [
+            "example",
+            "deterrent_example",
+            "lesson",
+            "object_lesson"
+        ],
+        "lexId": "0",
+        "ptrs": [
+            {
+                "pointerSymbol": "@",
+                "synsetOffset": 6672297,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1771124,
+                "pos": "a",
+                "sourceTarget": "0103"
+            }
+        ],
+        "gloss": "punishment intended as a warning to others; \"they decided to make an example of him\"  ",
+        "def": "punishment intended as a warning to others",
+        "exp": [
+            "they decided to make an example of him"
+        ]
+    },
+    {
+        "synsetOffset": 5925366,
+        "lexFilenum": 9,
+        "pos": "n",
+        "wCnt": 4,
+        "lemma": "exemplar",
+        "synonyms": [
+            "exemplar",
+            "example",
+            "model",
+            "good_example"
+        ],
+        "lexId": "0",
+        "ptrs": [
+            {
+                "pointerSymbol": "@",
+                "synsetOffset": 5923696,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2586446,
+                "pos": "a",
+                "sourceTarget": "0201"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1021128,
+                "pos": "v",
+                "sourceTarget": "0201"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2586446,
+                "pos": "a",
+                "sourceTarget": "0101"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5925702,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5938633,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5938795,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5939244,
+                "pos": "n",
+                "sourceTarget": "0000"
+            }
+        ],
+        "gloss": "something to be imitated; \"an exemplar of success\"; \"a model of clarity\"; \"he is the very model of a modern major general\"  ",
+        "def": "something to be imitated",
+        "exp": [
+            "an exemplar of success",
+            "a model of clarity",
+            "he is the very model of a modern major general"
+        ]
+    },
+    {
+        "synsetOffset": 5937112,
+        "lexFilenum": 9,
+        "pos": "n",
+        "wCnt": 2,
+        "lemma": "model",
+        "synonyms": [
+            "model",
+            "example"
+        ],
+        "lexId": "2",
+        "ptrs": [
+            {
+                "pointerSymbol": "@",
+                "synsetOffset": 5926676,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2723733,
+                "pos": "v",
+                "sourceTarget": "0201"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1021128,
+                "pos": "v",
+                "sourceTarget": "0201"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1743784,
+                "pos": "v",
+                "sourceTarget": "0101"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5937417,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5937524,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5938170,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5938314,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5938400,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5938976,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5939109,
+                "pos": "n",
+                "sourceTarget": "0000"
+            }
+        ],
+        "gloss": "a representative form or pattern; \"I profited from his example\"  ",
+        "def": "a representative form or pattern",
+        "exp": [
+            "I profited from his example"
+        ]
+    },
+    {
+        "synsetOffset": 5820620,
+        "lexFilenum": 9,
+        "pos": "n",
+        "wCnt": 4,
+        "lemma": "example",
+        "synonyms": [
+            "example",
+            "illustration",
+            "instance",
+            "representative"
+        ],
+        "lexId": "0",
+        "ptrs": [
+            {
+                "pointerSymbol": "@",
+                "synsetOffset": 5816287,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1021128,
+                "pos": "v",
+                "sourceTarget": "0303"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2155799,
+                "pos": "v",
+                "sourceTarget": "0301"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2155493,
+                "pos": "v",
+                "sourceTarget": "0301"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1021128,
+                "pos": "v",
+                "sourceTarget": "0202"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2469119,
+                "pos": "a",
+                "sourceTarget": "0102"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 2723733,
+                "pos": "v",
+                "sourceTarget": "0101"
+            },
+            {
+                "pointerSymbol": "+",
+                "synsetOffset": 1021128,
+                "pos": "v",
+                "sourceTarget": "0101"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5821102,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5821246,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5821486,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5821646,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5821775,
+                "pos": "n",
+                "sourceTarget": "0000"
+            },
+            {
+                "pointerSymbol": "~",
+                "synsetOffset": 5822239,
+                "pos": "n",
+                "sourceTarget": "0000"
+            }
+        ],
+        "gloss": "an item of information that is typical of a class or group; \"this patient provides a typical example of the syndrome\"; \"there is an example on page 10\"  ",
+        "def": "an item of information that is typical of a class or group",
+        "exp": [
+            "this patient provides a typical example of the syndrome",
+            "there is an example on page 10"
+        ]
+    }
+]
